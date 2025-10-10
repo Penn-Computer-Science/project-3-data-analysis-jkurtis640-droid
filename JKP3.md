@@ -1,16 +1,16 @@
 # Project 3 -  Student Submission
 
 ## Project Info
-- **Project Title:** _Your project title here_
-- **Your Name:Joe Kurtis
-- **Date:** _MM/DD/YYYY_
+- **Project Title:** JK
+- **Your Name:**Joe Kurtis
+- **Date:** _10/10/2025_
 
 ---
 
 ## Survey Information
-- **Survey Topic:** _Briefly describe what your survey is about_
-- **Survey Link:** [Click here to view survey](https://example.com)
-- **Number of Responses:** _e.g., 25_
+- **Survey Topic:** _My survey is about music listening ,combination problems, math solving, What music they like listening to and time playing videogames_
+- **Survey Link:** [Click here to view survey](https://docs.google.com/forms/d/e/1FAIpQLScQ1eALLpYf_ulJRqHnvleQkldI5IHDO0Cvb_8w7TuHnEg8Zw/viewform?usp=sharing&ouid=117214671967308925010)
+- **Number of Responses:** _7_
 
 ---
 
