@@ -49,3 +49,19 @@ ax.set_xlabel("Time listening music")
 ax.set_ylabel("Hours playing videogames")
 ax.legend()
 plt.show()
+
+## Summary/Report
+## I found that a lot of people in the bar chart for hours playing videogames the kids tended to spend less time playing videogames than expected with the average being 6.07.
+## In the histogram for time listening to music the children tended to average around 7 hours.
+## In the line graph people spent more time listening to music than playing videogames
+## So my analysis is that people from this data spend more time listening to music than playing videogames.
+
+
+## What the graphs do
+## The bar chart shows the time playing videogames
+## The histogram shows the time listening to music
+## The line graph shows the time playing videogames vs the time listening to music.
+
+
+
+
