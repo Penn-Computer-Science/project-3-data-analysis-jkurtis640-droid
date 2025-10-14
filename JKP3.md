@@ -19,17 +19,19 @@ List the questions you asked in your survey and their type:
 
 | # | Question Text | Response Type (Multiple Choice / Numeric / Text) |
 |---|---------------|-------------------------------------------------|
-| 1 | _Example: How many hours do you sleep on school nights?_ | Numeric |
-| 2 | _Example: What is your favorite study snack?_ | Multiple Choice |
-| 3 | _..._ | _..._ |
+| 1 | _What music genres do you like?_ | Multiple Choice |
+| 2 | _What is the answer to 2^5/4th root of 16_ | Multiple Choice |
+| 3 | _How many hours do you play videogames_ | Numeric |
+| 4 | _How much time do you spend listening to music_ | Numeric |
+| 5 | _If you had to combine a math problem and a music genre what would it be_ | Open Answer |
 
 ---
 
 ## Data Overview
-- **Link to Raw Data File (CSV):** [Download here](notpandas.csv)
-- **Number of Columns:** _e.g., 6_
+- **Link to Raw Data File (CSV):** (notpandas.csv)
+- **Number of Columns:** _e.g., 31_
 - **Number of Rows:** _e.g., 25_
-- **Any Cleaning Steps Taken:** _Describe what you did (handled missing values, renamed columns, converted data types, etc.)_
+- **Any Cleaning Steps Taken:** _I just made it raw. I did not clean it is just in it's raw form_
 
 ---
 
@@ -38,24 +40,24 @@ List each chart you made, its type, and what it shows. Add a link or embed an im
 
 | # | Chart Title | Chart Type (Bar, Histogram, Scatter, etc.) | Brief Description | Link or Image |
 |---|-------------|-------------------------------------------|-------------------|---------------|
-| 1 | _Average Sleep by Grade Level_ | Bar Chart | Shows average hours of sleep for each grade level. | ![Chart 1](Figure_1.png) |
-| 2 | _Distribution of Screen Time_ | Histogram | Shows how many students fall into different screen-time ranges. | ![Chart 2](chart2.png) |
-| 3 | _Caffeine Consumption vs GPA_ | Scatter Plot | Shows relationship between caffeine intake and GPA. | ![Chart 3](chart3.png) |
+| 1 | _Average time playing videogames_ | Bar Chart | Shows the average time playing videogames. | (Figure_1.png) |
+| 2 | _Average time listening music_ | Histogram | Shows the average time listening music. | (Figure_2.png) |
+| 3 | _Average time playing videogames vs time listening music_ | Line Plot | Shoiws the relationship between time listening to music vs time playing videogames. | (Figure_3.png) |
 
 ---
 
 ## Data Analysis & Insights
 Write a short analysis of your findings. Include at least one interesting insight from your data.
 
-> _Example:_ “We found that students who sleep 7–8 hours per night reported higher average GPAs than those who sleep less than 5 hours. Energy drink consumption peaked among 11th graders.”
+> “I found that people tend to listen to music more than play videogames”
 
 ---
 
 ## Reflection
 Answer briefly:
-- What went well in your project?
-- What was the most challenging part?
-- If you had more time, what would you do differently?
+- What went well was the csv part creating the csv.
+- What the most challenging part was creating the charts using matplot lib.
+- If I had more time I would work on how to use matplotlib more effectively. 
 
 ---
 
