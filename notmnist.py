@@ -64,7 +64,7 @@ ax[0].set_ylabel("Loss")
 ax[1].plot(history.history['acc'],color='b',label="Training Accuracy ")
 ax[1].plot(history.history['val_acc'],color='r',label="Validation Accuracy ")
 legend = ax[1].legend(loc='best',shadow=True)
-ax[1].settitle("Accuracy")
+ax[1].set_title("Accuracy")
 ax[1].set_xlabel("Epochs")
 ax[1].set_ylabel("Accuracy")
 
