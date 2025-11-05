@@ -57,7 +57,7 @@ fig, ax = plt.subplots(2,1)
 ax[0].plot(history.history['loss'],color='b',label="Training loss ")
 ax[0].plot(history.history['val_loss'],color='r',label="Validation loss ")
 legend = ax[0].legend(loc='best',shadow=True)
-ax[0].settitle("loss")
+ax[0].set_title("loss")
 ax[0].set_xlabel("Epochs")
 ax[0].set_ylabel("Loss")
 
